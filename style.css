@@ -1,0 +1,59 @@
+ {
+		margin: 0px;
+		padding: 0px;
+	}
+					
+
+body {
+			background-color: #c4bcac;
+		}
+
+.col-sm-3 {
+		background-color: #949484;
+		margin-right: 20px;
+		padding: 25px;
+		
+
+	
+
+	}
+.container {
+		display: inline-flex;
+	}
+
+p {
+	font-family: Newsreader;
+}
+
+.Header {
+	background-color: #99947c;
+}
+
+	
+.He {
+	font-family: Imperial Script;
+	text-align: center;
+	padding: 10px;
+}
+
+
+.container {
+	
+	}
+
+li {
+	font-family: Lato
+
+}
+
+.John {
+	font-family: Akaya Kanadaka;
+}
+
+h2 {
+	font-family: Akaya Kanadaka;
+}
+
+
+
+
